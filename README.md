@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Hello, I'm Seda.<br>
 I am developing a mobile application with Flutter. Discover my software world.
 
