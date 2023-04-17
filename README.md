@@ -1,15 +1,15 @@
-## About Me:
+# About Me:
 Hello, I'm Seda.<br>
 I am developing a mobile application with Flutter. Discover my software world.
 
-## Personel Info
+# Personel Info
 - Name : @SEDACanpolat 
 - Gmail :  sedacanpolat1988@gmail.com 
 
-## Current Occupation
+# Current Occupation
 <p> Learning Flutter and Developing Mobile Apps </p>
 
-## Languages and Frameworks
+# Languages and Frameworks
 - Flutter
 - Dart
 - Android Studio
@@ -20,5 +20,5 @@ I am developing a mobile application with Flutter. Discover my software world.
 - C
 - Figma
 
-## Find me on social media
+# Find me on social media
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seda-canpolat-8098b325a/)
